@@ -1,7 +1,7 @@
 # Hack_Chrome
 getting stored passwords from chrome just by running automated script
 
-## This is no to harm any anyone its just for "EDUCATIONAL PURPOSE".
+## This is no to harm anyone its just for "EDUCATIONAL PURPOSE".
 
 Here is how to run it on Windows:
 1. Download and extract the file from repo. 
