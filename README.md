@@ -13,3 +13,5 @@ Here is how to run it on Windows:
 ### _It's That EASY !_
 
 ### __BY:__   ![alt ClumsyRat](https://github.com/Ankith-Cirgir/CollegeBruteForce/blob/master/clumsylogo.png "ClumsyRat")
+
+IG: https://www.instagram.com/_ankith.__/
